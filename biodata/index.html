@@ -1,204 +1,94 @@
-F<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Biodata | ACH.RAMADANI</title>
-
-    <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-
-    <!-- =========================
-         NAVBAR
-    ========================== -->
-    <nav>
-        <h2 class="logo">RAMAA</h2>
-
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#biodata">Biodata</a></li>
-            <li><a href="#pendidikan">Pendidikan</a></li>
-            <li><a href="#hobi">Hobi</a></li>
-        </ul>
-    </nav>
+```css
+/* =====================================================
+   FRIDAY KILLER PORTFOLIO
+   ACH.RAMADANI
+   BLACK × BLOOD RED
+===================================================== */
 
 
-    <!-- =========================
-         HERO
-    ========================== -->
-    <div class="hero" id="home">
+/* =====================================================
+   RESET
+===================================================== */
 
-        <div class="hero-content">
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-            <div class="command">
-                &gt; hello_world.exe
-            </div>
+html {
+    scroll-behavior: smooth;
+}
 
-            <h1>
-                ACH.RAADANI<br>
-                <span>RAMADANI</span>
-            </h1>
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    color: #ffffff;
+    min-height: 100vh;
+    overflow-x: hidden;
 
-            <h3>
-                Pelajar &nbsp;|&nbsp; Technology Enthusiast
-            </h3>
-
-            <p>
-                Halo! Saya ACH.RAMADANI.
-                Saya adalah seorang pelajar yang memiliki semangat
-                untuk belajar dan mengembangkan kemampuan di bidang teknologi.
-            </p>
-
-            <div class="buttons">
-                <a href="#biodata" class="btn btn-primary">
-                    Lihat Biodata
-                </a>
-
-                <a href="mailto:ach.ramadani33@gmail.com"
-                   class="btn btn-secondary">
-                    Hubungi Sayaa
-                </a>
-            </div>
-
-        </div>
+    background:
+        radial-gradient(
+            circle at 15% 20%,
+            rgba(255, 0, 55, 0.12),
+            transparent 28%
+        ),
+        radial-gradient(
+            circle at 85% 75%,
+            rgba(139, 0, 0, 0.14),
+            transparent 30%
+        ),
+        #050505;
+}
 
 
-        <!-- FOTO -->
-        <div class="hero-image">
+/* =====================================================
+   DARK ATMOSPHERE
+===================================================== */
 
-            <div class="avatar">
-                <img src="biodata/WhatsApp Image 2026-10-06 at 21.18.21.jpeg"
-                     alt="biodata/WhatsApp Image 2026-10-06 at 21.18.21.jpeg">
-            </div>
+body::before {
+    content: "";
 
-            <div class="code-card">
-                <span>&lt;student&gt;</span><br>
-                &nbsp;&nbsp;ACH.RAMADANI<br>
-                &nbsp;&nbsp;<span class="green">"Pamekasan"</span><br>
-                <span>&lt;/student&gt;</span>
-            </div>
+    position: fixed;
+    inset: 0;
 
-        </div>
+    pointer-events: none;
+    z-index: -5;
 
-    </div>
+    opacity: 0.25;
 
+    background-image:
+        linear-gradient(
+            120deg,
+            transparent 48%,
+            rgba(255, 0, 55, 0.08) 49%,
+            transparent 50%
+        ),
+        linear-gradient(
+            35deg,
+            transparent 48%,
+            rgba(255, 255, 255, 0.025) 49%,
+            transparent 50%
+        );
 
-    <!-- =========================
-         BIODATA
-    ========================== -->
-    <section id="biodata">
-
-        <h2>Data <span>Diri</span></h2>
-
-        <div class="projects">
-
-            <div class="project-card">
-                <h3>Nama</h3>
-                <p>ACH.RAMADANI</p>
-            </div>
-
-            <div class="project-card">
-                <h3>Tempat, Tanggal Lahir</h3>
-                <p>Pamekasan,01 JUNI 2005</p>
-            </div>
-
-            <div class="project-card">
-                <h3>Jenis Kelamin</h3>
-                <p>Laki-laki</p>
-            </div>
-
-            <div class="project-card">
-                <h3>Alamat</h3>
-                <p>Pamekasan</p>
-            </div>
-
-            <div class="project-card">
-                <h3>Agama</h3>
-                <p>Islam</p>
-            </div>
-
-            <div class="project-card">
-                <h3>Status</h3>
-                <p>Pelajar</p>
-            </div>
-
-            <div class="project-card">
-                <h3>Email</h3>
-                <p>ach.ramadani33@gmail.com</p>
-            </div>
-
-        </div>
-
-    </section>
+    background-size:
+        300px 300px,
+        220px 220px;
+}
 
 
-    <!-- =========================
-         PENDIDIKAN
-    ========================== -->
-    <section id="pendidikan">
+/* =====================================================
+   RED GLOW
+===================================================== */
 
-        <h2>Riwayat <span>Pendidikan</span></h2>
+body::after {
+    content: "";
 
-        <div class="projects">
+    position: fixed;
 
-            <div class="project-card">
-                <h3>MI</h3>
-                <p>Pendidikan dasar</p>
-            </div>
+    width: 600px;
+    height: 600px;
 
-            <div class="project-card">
-                <h3>MTS ISLAMIAH</h3>
-                <p>Pendidikan menengah pertama</p>
-            </div>
+    right: -250px;
+    top: -250px;
 
-            <div class="project-card">
-                <h3>SMK PLUS WAISONGO</h3>
-                <p>Pendidikan menengah atas</p>
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <!-- =========================
-         HOBI
-    ========================== -->
-    <section id="hobi">
-
-        <h2>Hobi & <span>Minat</span></h2>
-
-        <div class="projects">
-
-            <div class="project-card">
-                <h3>Membaca</h3>
-                <p>Menambah wawasan dan pengetahuan.</p>
-            </div>
-
-            <div class="project-card">
-                <h3>Menonton Film</h3>
-                <p>Menikmati film di waktu luang.</p>
-            </div>
-
-            <div class="project-card">
-                <h3>Bermain Game</h3>
-                <p>Bermain game sebagai hiburan.</p>
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <!-- =========================
-         FOOTER
-    ========================== -->
-    <footer>
-        &copy; 2026 ACH.RAMADANI
-    </footer>
-
-</body>
-</html>
+   
