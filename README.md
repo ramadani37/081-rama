@@ -158,12 +158,11 @@ Saya memiliki ketertarikan pada dunia **programming, web development, software d
 
 <a href="https://ramadani37.github.io/081-rama/biodata/">
 
-<img src="https://img.shields.io/badge/OPEN%20BIODATA-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20BIODATA-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=7C3AED" />
 
 </a>
 
 <br><br>
-
 `https://ramadani37.github.io/081-rama/biodata/`
 
 </div>
