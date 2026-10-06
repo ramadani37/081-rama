@@ -156,86 +156,43 @@ Saya memiliki ketertarikan pada dunia **programming, web development, software d
 
 ### 🔥 **BIODATA WEBSITE**
 
-/* ========================================================
-   THEME: FRIDAY KILLER / PSYCHO RED & BLACK
-   ======================================================== */
+## 💎 `> MY PORTFOLIO`
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Grotesk:wght@400;700&display=swap');
+<div align="center">
 
-:root {
-  --bg-main: #080808;            /* Hitam Pekat */
-  --bg-card: #121212;            /* Hitam Gelap Card */
-  --red-primary: #ff0033;        /* Merah Neon / Darah */
-  --red-dark: #7a0016;           /* Merah Marun Gory */
-  --text-main: #ffffff;          /* Teks Putih */
-  --text-muted: #a0a0a0;         /* Teks Abu-abu */
-}
+### **ACH. RAMADANI**
 
-/* Base Body Background */
-body {
-  background-color: var(--bg-main) !important;
-  color: var(--text-main) !important;
-  font-family: 'Space Grotesk', sans-serif;
-}
+`DIGITAL PROFILE • PERSONAL BIODATA`
 
-/* Header & Typography */
-h1, h2, h3, .brand-title {
-  font-family: 'Bebas Neue', sans-serif !important;
-  letter-spacing: 2px;
-}
+<br>
 
-/* Teks nama utama (ACH.RAMADANI) */
-h1 span, .text-highlight, .purple-text {
-  color: var(--red-primary) !important;
-  text-shadow: 0 0 12px rgba(255, 0, 51, 0.7), 2px 2px 0px var(--red-dark) !important;
-}
+<a href="https://ramadani37.github.io/081-rama/biodata/">
 
-/* Badge Executive (> hello_world.exe) */
-.badge, .exe-tag, [class*="hello_world"] {
-  background-color: #1a0206 !important;
-  color: var(--red-primary) !important;
-  border: 1px solid var(--red-primary) !important;
-  box-shadow: 0 0 10px rgba(255, 0, 51, 0.4);
-  font-family: monospace;
-}
+<img src="https://img.shields.io/badge/VIEW%20MY%20PROFILE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=7C3AED&labelColor=7C3AED" />
 
-/* Tombol Utama (Lihat Biodata) */
-.btn-primary, button.primary {
-  background: linear-gradient(135deg, var(--red-primary) 0%, var(--red-dark) 100%) !important;
-  color: #ffffff !important;
-  border: none !important;
-  box-shadow: 0 0 15px rgba(255, 0, 51, 0.6) !important;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 1.5px;
-  transition: all 0.3s ease-in-out;
-}
+</a>
 
-.btn-primary:hover {
-  box-shadow: 0 0 25px rgba(255, 0, 51, 0.9) !important;
-  transform: translateY(-2px);
-}
-
-/* Tombol Kedua (Hubungi Sayaa) */
-.btn-secondary, button.secondary {
-  background: transparent !important;
-  color: var(--text-main) !important;
-  border: 1px solid var(--red-primary) !important;
-  text-transform: uppercase;
-  letter-spacing: 1.5px;
-  transition: all 0.3s ease-in-out;
-}
-
-.btn-secondary:hover {
-  background: rgba(255, 0, 51, 0.15) !important;
-  color: var(--red-primary) !important;
-  box-shadow: 0 0 12px rgba(255, 0, 51, 0.5);
-}
-
-/* Lingkaran / Avatar Profile Glowing di Kanan */
-.profile-avatar, .glow-circle, [class*="circle"] {
-  border:
 <br><br>
+
+<code>ramadani37.github.io/081-rama/biodata/</code>
+
+<br><br>
+
+✦ **Explore my personal profile and biodata** ✦
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:E9D5FF&height=100&section=footer"/>
+
+### 🤍 **THANK YOU FOR VISITING**
+
+`© 2026 • ACH. RAMADANI`
+
+</div>
 `https://ramadani37.github.io/081-rama/biodata/`
 
 </div>
