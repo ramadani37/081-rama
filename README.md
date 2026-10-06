@@ -1,109 +1,136 @@
-# 👋 Halo, Saya ACH. RAMADANI
+# 💙 ACH. RAMADANI
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=100&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=%24+ACH.RAMADANI;%24+INFORMATICS+STUDENT+%7C+TECHNOLOGY+ENTHUSIAST;%24+ALWAYS+LEARNING+%26+BUILDING+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=80&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=%24+ACH.RAMADANI;%24+INFORMATICS+STUDENT;%24+TECHNOLOGY+ENTHUSIAST;%24+BUILDING+THE+FUTURE+%F0%9F%94%A5" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=3&section=header"/>
 
 </div>
 
-## 👨‍💻 Tentang Saya
-
-Halo! Saya **Ach. Ramadani**, seorang mahasiswa **Informatika Universitas Madura (UNIRA)** angkatan 2024 yang memiliki ketertarikan pada dunia teknologi dan pemrograman.
-
-Saya senang mempelajari hal-hal baru, mengembangkan kemampuan di bidang teknologi, serta membuat berbagai proyek untuk meningkatkan pengalaman dan kemampuan saya sebagai mahasiswa Informatika.
-
 ---
 
-## 📌 Biodata
-
-| Informasi | Keterangan |
-|-----------|------------|
-| 👤 Nama | Ach. Ramadani |
-| 🎓 Program Studi | Informatika |
-| 🏫 Universitas | Universitas Madura (UNIRA) |
-| 📅 Angkatan | 2024 |
-| 💻 Bidang | Teknologi & Pemrograman |
-| 📧 Email | ach.ramadani33@gmail.com |
-
----
-
-## 🎓 Pendidikan
-
-- 🎓 **Universitas Madura (UNIRA)**
-- 💻 **Program Studi Informatika**
-- 📅 **Angkatan 2024**
-
----
-
-## 💻 Minat & Ketertarikan
-
-Saya memiliki ketertarikan dalam beberapa bidang, terutama:
-
-- 💻 Pemrograman
-- 🌐 Pengembangan Website
-- 🐍 Python
-- 🗄️ Database & MySQL
-- 📱 Pengembangan Aplikasi
-- 🤖 Teknologi
-- 📚 Belajar hal-hal baru
-- 🧑‍💻 Software Development
-
----
-
-## 💻 `$ skills`
+## 🟦 `> WHO AM I?`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,github,git,vscode,androidstudio" />
+### **ACH. RAMADANI**
+
+**INFORMATICS STUDENT • DEVELOPER • TECHNOLOGY ENTHUSIAST**
+
+`UNIRA • INFORMATICS • 2024`
+
+</div>
+
+Halo! Saya **Ach. Ramadani**, mahasiswa **Informatika Universitas Madura (UNIRA)** angkatan 2024.
+
+Saya memiliki ketertarikan pada dunia **programming, web development, software development, dan teknologi digital**. Saya senang mempelajari teknologi baru dan mengembangkan berbagai project untuk meningkatkan kemampuan saya sebagai developer.
+
+---
+
+## 🟪 `> ABOUT ME`
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  NAME        : ACH. RAMADANI                │
+│  UNIVERSITY  : UNIVERSITAS MADURA           │
+│  MAJOR       : INFORMATICS                  │
+│  GENERATION  : 2024                         │
+│  STATUS      : STUDENT                      │
+│  FOCUS       : TECHNOLOGY & PROGRAMMING     │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 💜 `> INTERESTS`
+
+<div align="center">
+
+💻 **PROGRAMMING** &nbsp; • &nbsp;
+🌐 **WEB DEVELOPMENT** &nbsp; • &nbsp;
+🐍 **PYTHON**
+
+🗄️ **DATABASE** &nbsp; • &nbsp;
+📱 **APP DEVELOPMENT** &nbsp; • &nbsp;
+🤖 **TECHNOLOGY**
+
+</div>
+
+---
+
+## 🔵 `> TECH STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,androidstudio&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" />
 
 <br>
 
-<img src="https://img.shields.io/badge/MySQL-Beginner-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-Intermediate-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-Intermediate-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" />
+<img src="https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 
 </div>
 
 ---
 
-## 🛠️ Tools & Technologies
+## ⚡ `> DEVELOPER MODE`
 
 <div align="center">
 
-| Tools | Keterangan |
-|-------|------------|
-| 🐍 Python | Programming |
-| 🌐 HTML & CSS | Web Development |
-| ⚡ JavaScript | Web Programming |
-| 🗄️ MySQL | Database |
-| 🔧 Git | Version Control |
-| 🐙 GitHub | Repository & Collaboration |
-| 💙 VS Code | Code Editor |
-| 🤖 Android Studio | Android Development |
+```text
+████████████████████████████████████████
+
+        CODE  •  CREATE  •  LEARN
+
+        THINK DIFFERENT.
+        BUILD DIFFERENT.
+
+████████████████████████████████████████
+```
 
 </div>
 
 ---
 
-## 🎮 Hobi
+## 🎮 `> HOBBIES`
 
-- 🎮 Bermain Game
-- 💻 Eksplorasi Teknologi
-- 📚 Belajar Programming
-- 🎬 Menonton Film
-- 🌐 Eksplorasi Dunia Digital
+- 🎮 Gaming
+- 💻 Exploring Technology
+- 📚 Learning Programming
+- 🎬 Watching Movies
+- 🌐 Exploring Digital World
+
+---
+
+## 📊 `> GITHUB STATS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ramadani37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=58A6FF&text_color=FFFFFF" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramadani37&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=FFFFFF" />
+
+</div>
+
+---
+
+## 🐍 `> CONTRIBUTION`
 
 <div align="center">
 
@@ -113,46 +140,42 @@ Saya memiliki ketertarikan dalam beberapa bidang, terutama:
 
 ---
 
-## 📊 GitHub Stats
+## 📫 `> CONTACT`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ACH-RAMADANI&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ACH-RAMADANI&theme=tokyonight&hide_border=true" />
+### 📧 `ach.ramadani33@gmail.com`
 
 </div>
 
 ---
 
-## 📫 Kontak
+## 🌐 `> PERSONAL PORTFOLIO`
 
-Jika ingin menghubungi saya:
+<div align="center">
 
-**Email:**  
-📧 ach.ramadani33@gmail.com
+### 🔥 **BIODATA WEBSITE**
 
----
+<a href="https://ramadani37.github.io/081-rama/biodata/">
 
-## 🚀 Personal Portfolio
+<img src="https://img.shields.io/badge/OPEN%20BIODATA-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
-🌐 **Website Biodata:**  
-https://ramadani37.github.io/081-rama/biodata/
+</a>
+
+<br><br>
+
+`https://ramadani37.github.io/081-rama/biodata/`
+
+</div>
 
 ---
 
 <div align="center">
 
-<b>© 2026 Ach. Ramadani</b>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:1A0B3D,60:312E81,100:2563EB&height=180&section=footer&text=ACH.%20RAMADANI&fontSize=35&fontColor=FFFFFF&fontAlignY=65"/>
 
-<br><br>
+### 💙 **THANKS FOR VISITING MY PROFILE** 💜
 
-💙 Thanks for visiting my profile!
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=footer"/>
+`© 2026 ACH. RAMADANI`
 
 </div>
