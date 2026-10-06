@@ -156,41 +156,6 @@ Saya memiliki ketertarikan pada dunia **programming, web development, software d
 
 ### 🔥 **BIODATA WEBSITE**
 
-## 💎 `> MY PORTFOLIO`
-
-<div align="center">
-
-### **ACH. RAMADANI**
-
-`DIGITAL PROFILE • PERSONAL BIODATA`
-
-<br>
-
-<a href="https://ramadani37.github.io/081-rama/biodata/">
-
-<img src="https://img.shields.io/badge/VIEW%20MY%20PROFILE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=7C3AED&labelColor=7C3AED" />
-
-</a>
-
-<br><br>
-
-<code>ramadani37.github.io/081-rama/biodata/</code>
-
-<br><br>
-
-✦ **Explore my personal profile and biodata** ✦
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:E9D5FF&height=100&section=footer"/>
-
-### 🤍 **THANK YOU FOR VISITING**
-
-`© 2026 • ACH. RAMADANI`
 
 </div>
 `https://ramadani37.github.io/081-rama/biodata/`
