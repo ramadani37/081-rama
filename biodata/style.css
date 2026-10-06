@@ -1,85 +1,3 @@
-```css
-/* =====================================================
-   FRIDAY KILLER PORTFOLIO
-   ACH.RAMADANI
-   BLACK × BLOOD RED
-===================================================== */
-
-
-/* =====================================================
-   RESET
-===================================================== */
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html {
-    scroll-behavior: smooth;
-}
-
-body {
-    font-family: "Segoe UI", Arial, sans-serif;
-    color: #ffffff;
-    min-height: 100vh;
-    overflow-x: hidden;
-
-    background:
-        radial-gradient(
-            circle at 15% 20%,
-            rgba(255, 0, 55, 0.12),
-            transparent 28%
-        ),
-        radial-gradient(
-            circle at 85% 75%,
-            rgba(139, 0, 0, 0.14),
-            transparent 30%
-        ),
-        #050505;
-}
-
-
-/* =====================================================
-   DARK ATMOSPHERE
-===================================================== */
-
-body::before {
-    content: "";
-
-    position: fixed;
-    inset: 0;
-
-    pointer-events: none;
-    z-index: -5;
-
-    opacity: 0.25;
-
-    background-image:
-        linear-gradient(
-            120deg,
-            transparent 48%,
-            rgba(255, 0, 55, 0.08) 49%,
-            transparent 50%
-        ),
-        linear-gradient(
-            35deg,
-            transparent 48%,
-            rgba(255, 255, 255, 0.025) 49%,
-            transparent 50%
-        );
-
-    background-size:
-        300px 300px,
-        220px 220px;
-}
-
-
-/* =====================================================
-   RED GLOW
-===================================================== */
-
 body::after {
     content: "";
 
@@ -91,4 +9,11 @@ body::after {
     right: -250px;
     top: -250px;
 
-   
+    background: rgba(255, 0, 55, 0.12);
+
+    filter: blur(130px);
+    border-radius: 50%;
+
+    pointer-events: none;
+    z-index: -1;
+}
