@@ -1,3 +1,16 @@
+Status Code 200 (OK)
+Arti: Permintaan (request) dari client berhasil diterima, diproses, dan diselesaikan dengan sempurna oleh server.
+Kapan Terjadi: Setiap kali Anda membuka halaman web, mengambil data API, atau mengirim data yang valid dan server merespons sesuai harapan.
+Kondisi Server: Sehat, tidak ada kendala sama sekali.
+<img width="531" height="410" alt="Cuplikan layar 2026-10-07 102248" src="https://github.com/user-attachments/assets/6f35826f-e307-43f2-b61f-52e4b9b427e5" />
+
+Status Code 201 (Created)
+Arti: Permintaan berhasil diproses oleh server dan menghasilkan terciptanya sumber daya (resource) baru di dalam sistem atau database.
+Kapan Digunakan: Kode ini paling sering dikembalikan oleh server sebagai respons dari metode POST (misalnya ketika Anda melakukan registrasi akun baru, membuat postingan baru, atau menambahkan data produk).
+Contoh Kasus:
+Saat Anda mengisi formulir pendaftaran akun dan menekan tombol Sign Up, server menerima data Anda, menyimpannya ke database, memberikan ID unik baru (misalnya id: 50), lalu mengirimkan respons 201 Created ke browser/aplikasi Anda sebagai tanda bahwa akun baru telah resmi dibuat.
+<img width="551" height="429" alt="Cuplikan layar 2026-10-07 120356" src="https://github.com/user-attachments/assets/e5f92089-a898-45e2-8b72-5b32cb1dca51" />
+
 Status Code 400 (Bad Request)
 Arti : Permintaan ditolak karena server tidak mengenal siapa yang mengirim request (belum terautentikasi).
 Penyebab : Pengguna mencoba mengakses halaman profil atau dashboard tanpa melakukan login terlebih dahulu, atau token akses (API token) yang dikirim sudah kedaluwarsa/salah.
