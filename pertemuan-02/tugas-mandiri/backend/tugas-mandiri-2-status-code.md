@@ -1,9 +1,14 @@
-Status Code 400 (Bad<img width="542" height="428" alt="Cuplikan layar 2026-10-07 114417" src="https://github.com/user-attachments/assets/165475a1-0ab3-4e5e-9721-bb7d1488e9d5" />
- Request)
+Status Code 400 (Bad Request)
+Arti : Permintaan ditolak karena server tidak mengenal siapa yang mengirim request (belum terautentikasi).
+Penyebab : Pengguna mencoba mengakses halaman profil atau dashboard tanpa melakukan login terlebih dahulu, atau token akses (API token) yang dikirim sudah kedaluwarsa/salah.
+Solusi : Harus melakukan login atau memasukkan kredensial yang valid terlebih dahulu agar server mengenali identitasnya.
+<img width="528" height="388" alt="Cuplikan layar 2026-10-07 104546" src="https://github.com/user-attachments/assets/be3a006a-7079-4196-b4f2-a7d29cd7771e" />
+
+Status Code 401 (Unauthorized)
 Arti: Permintaan ditolak karena server tidak mengenal siapa yang mengirim request (belum terautentikasi).
 Penyebab: Pengguna mencoba mengakses halaman profil atau dashboard tanpa melakukan login terlebih dahulu, atau token akses (API token) yang dikirim sudah kedaluwarsa/salah.
 Solusi bagi Client: Harus melakukan login atau memasukkan kredensial yang valid terlebih dahulu agar server mengenali identitasnya.
-<img width="528" height="388" alt="Cuplikan layar 2026-10-07 104546" src="https://github.com/user-attachments/assets/be3a006a-7079-4196-b4f2-a7d29cd7771e" />
+<img width="530" height="449" alt="Cuplikan layar 2026-10-07 105011" src="https://github.com/user-attachments/assets/b46dc5fa-e51f-4b93-ad44-8d5272de9fc9" />
 
 Status Code 403 (Forbidden)
 Arti: Permintaan ditolak karena server mengenal siapa Anda, tetapi Anda tidak diizinkan untuk mengakses sumber daya tersebut.
@@ -15,10 +20,13 @@ Status Code 404 (Not Found)
 Arti: Server berhasil dihubungi, tetapi sumber daya atau alamat URL yang diminta tidak ditemukan.
 Kapan Terjadi: Ketika pengguna salah mengetik alamat tautan (typo), atau mengakses halaman yang sudah dihapus oleh pengelola web.
 Kondisi Server: Server dalam keadaan sangat sehat dan berfungsi normal. Server menolak atau gagal memberikan data bukan karena servernya rusak, melainkan karena alamat yang dicari client memang tidak ada di dalam sistem.
-<img width="539" height="447" alt="Cuplikan layar 2026-10-07 093835" src="https://github.com/user-attachments/assets/cbb7af82-9c4f-4fc8-9edf-82c5705ab773" />
+<img width="530" height="443" alt="Cuplikan layar 2026-10-07 102404" src="https://github.com/user-attachments/assets/aef97866-34f8-4f52-a39f-ef6616636b5d" />
+
 
 Status Code 500 (Internal Server Error)
 Arti: Terjadi kesalahan fatal di sisi server saat sedang memproses permintaan client.
 Kapan Terjadi: Ketika ada bug pada kode program backend, kegagalan saat menghubungkan ke database, atau server kehabisan memori (out of memory).
 Kondisi Server: Bermasalah atau mengalami crash. Pesan error ini murni kesalahan dari pihak pengembang atau pengelola server, bukan karena kesalahan ketik dari sisi pengguna.
-<img width="544" height="413" alt="Cuplikan layar 2026-10-07 094045" src="https://github.com/user-attachments/assets/606db370-e330-4a49-a0d3-4a39bc9cce82" />
+![Uploading Cuplikan layar 2026-10-07 102404.png…]()
+<img width="535" height="392" alt="Cuplikan layar 2026-10-07 102439" src="https://github.com/user-attachments/assets/c135596e-50fe-4c67-be41-c6ee0181faf5" />
+
