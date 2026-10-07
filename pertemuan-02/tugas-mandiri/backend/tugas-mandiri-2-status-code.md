@@ -1,9 +1,15 @@
+Status Code 400 (Bad<img width="542" height="428" alt="Cuplikan layar 2026-10-07 114417" src="https://github.com/user-attachments/assets/165475a1-0ab3-4e5e-9721-bb7d1488e9d5" />
+ Request)
+Arti: Permintaan ditolak karena server tidak mengenal siapa yang mengirim request (belum terautentikasi).
+Penyebab: Pengguna mencoba mengakses halaman profil atau dashboard tanpa melakukan login terlebih dahulu, atau token akses (API token) yang dikirim sudah kedaluwarsa/salah.
+Solusi bagi Client: Harus melakukan login atau memasukkan kredensial yang valid terlebih dahulu agar server mengenali identitasnya.
+<img width="528" height="388" alt="Cuplikan layar 2026-10-07 104546" src="https://github.com/user-attachments/assets/be3a006a-7079-4196-b4f2-a7d29cd7771e" />
 
-Status Code 200 (OK)
-Arti: Permintaan (request) dari client berhasil diterima, diproses, dan diselesaikan dengan sempurna oleh server.
-Kapan Terjadi: Setiap kali Anda membuka halaman web, mengambil data API, atau mengirim data yang valid dan server merespons sesuai harapan.
-Kondisi Server: Sehat, tidak ada kendala sama sekali.
-<img width="518" height="428" alt="Cuplikan layar 2026-10-07 102819" src="https://github.com/user-attachments/assets/cc02f40e-4552-4f9a-ab41-5d1493994c59" />
+Status Code 403 (Forbidden)
+Arti: Permintaan ditolak karena server mengenal siapa Anda, tetapi Anda tidak diizinkan untuk mengakses sumber daya tersebut.
+Penyebab: Pengguna sudah login, tetapi akunnya hanya berstatus User biasa yang mencoba mengakses halaman khusus Admin. Server melarang keras tindakan tersebut.
+Solusi bagi Client: Berhenti mencoba karena akun tersebut memang tidak memiliki hak akses (privilege) untuk area itu.Berkaitan dengan hak akses (Kamu tahu siapa saya, tapi kamu tidak boleh masuk). Terjadi karena user biasa mencoba masuk ke halaman khusus admin.
+<img width="542" height="428" alt="Cuplikan layar 2026-10-07 114417" src="https://github.com/user-attachments/assets/77a16e29-f296-4779-9162-8cb9230a905c" />
 
 Status Code 404 (Not Found)
 Arti: Server berhasil dihubungi, tetapi sumber daya atau alamat URL yang diminta tidak ditemukan.
