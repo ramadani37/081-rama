@@ -156,7 +156,7 @@ Saya memiliki ketertarikan pada dunia **programming, web development, software d
 
 ### 🔥 **BIODATA WEBSITE**
 
-`https://ramadani37.github.io/081-rama/biodata/`
+
 
 </div>
 
